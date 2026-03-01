@@ -5,3 +5,35 @@ This project presents an end-to-end data analysis solution for an e-commerce ret
 
 The project includes data cleaning, feature engineering, KPI creation, trend analysis, and dashboard visualization using Python and Power BI.
 
+Tools & Technologies
+
+Python
+
+Pandas
+
+Matplotlib
+
+Power BI
+
+DAX
+
+GitHub
+
+Key Business KPIs
+
+Total Revenue
+
+Total Orders
+
+Total Customers
+
+Average Order Value (AOV)
+
+Revenue per Customer
+
+Revenue Growth %
+
+Total Profit
+
+Profit Margin %
+
